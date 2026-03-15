@@ -11,23 +11,23 @@
 ---
 
 <!-- ===== ABOUT ME ===== -->
-## 👨‍💻 Tentang Saya
+## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-Halo! Saya **Oktaviano**, seorang Full Stack Developer berbasis di **Malang, Indonesia** yang bersemangat membangun aplikasi web yang bersih, cepat, dan mudah digunakan.
+Hi! I'm **Oktaviano**, a Full Stack Developer based in **Malang, Indonesia** who is passionate about building clean, fast, and user-friendly web applications.
 
-Saya menikmati bekerja di sisi frontend maupun backend — dari membangun antarmuka yang indah dengan **React / Next.js**, membangun aplikasi monolith dengan **Laravel** atau merancang API yang solid dengan **Laravel**.
+I enjoy working on both the frontend and backend — from crafting beautiful interfaces with **React / Next.js**, building monolith applications with **Laravel**, to designing solid APIs with **Laravel**.
 
 <br/>
 
-| 🔭 Sedang mengerjakan | Project portfolio pribadi |
+| 🔭 Currently working on | Personal portfolio project |
 |---|---|
-| 🌱 Sedang belajar | **TypeScript, Docker, React, Low-level Programming** |
-| 💬 Tanya saya tentang | **Laravel, React, Next.js, PHP** |
-| 📍 Lokasi | **Malang, Jawa Timur, Indonesia** |
-| 🎯 Fokus saat ini | **Membangun  pondasi Frontend React/Typescript yang kuat** |
-| ⚡ Fun fact | **Suka Bernyanyi dan Bisa Bernyanyi xD** |
+| 🌱 Currently learning | **TypeScript, Docker, React, Low-level Programming** |
+| 💬 Ask me about | **Laravel, React, Next.js, PHP** |
+| 📍 Location | **Malang, East Java, Indonesia** |
+| 🎯 Current focus | **Building a strong Frontend foundation with React/TypeScript** |
+| ⚡ Fun fact | **Love singing and actually pretty good at it xD** |
 | 
 
 ---
@@ -91,12 +91,12 @@ Saya menikmati bekerja di sisi frontend maupun backend — dari membangun antarm
   </picture>
 </p>
 
-<!-- > 💡 Untuk mengaktifkan snake animation, buat file `.github/workflows/snake.yml` — lihat instruksi di bawah. -->
+<!-- > 💡 To enable snake animation, create a `.github/workflows/snake.yml` file — see instructions below. -->
 
 ---
 
 <!-- ===== CONNECT ===== -->
-## 🤝 Terhubung dengan Saya
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oktaviano-sahru-romadhon-900242335/" target="_blank">
