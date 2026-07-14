@@ -17,7 +17,7 @@
 
 Hi! I'm **Oktaviano**, a Full Stack Developer based in **Malang, Indonesia** who is passionate about building clean, fast, and user-friendly web applications.
 
-I enjoy working on both the frontend and backend — from crafting beautiful interfaces with **React / Next.js**, building monolith applications with **Laravel**, to designing solid APIs with **Laravel** and **Express.js**.
+I enjoy working on both the frontend and backend — from crafting beautiful interfaces with **React**, building monolith applications with **Laravel**, to designing solid APIs with **Laravel** and **Express.js**.
 
 <br/>
 
