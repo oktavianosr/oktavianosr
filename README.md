@@ -15,7 +15,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-Hi! I'm **Oktaviano**, a Full Stack Developer based in **Malang, Indonesia** who is passionate about building clean, fast, and user-friendly web applications.
+Hi! I'm **Oktaviano**, a Software Developer based in **Malang, Indonesia** who is passionate about building clean, fast, and user-friendly web applications.
 
 I enjoy working on both the frontend and backend — from crafting beautiful interfaces with **React**, building monolith applications with **Laravel**, to designing solid APIs with **Laravel** and **Express.js**.
 
@@ -23,7 +23,7 @@ I enjoy working on both the frontend and backend — from crafting beautiful int
 
 | 🔭 Currently working on | Personal portfolio project |
 |---|---|
-| 🌱 Currently learning | **TypeScript, Express.js, React.js, Low-level Programming, NodeJs Runtime** |
+| 🌱 Currently learning | **TypeScript, Express.js, React.js** |
 | 💬 Ask me about | **Laravel, PHP, JavaScript** |
 | 📍 Location | **Malang, East Java, Indonesia** |
 | 🎯 Current focus | **Building a strong Frontend foundation with React/TypeScript & strong Backend Architect** |
