@@ -1,5 +1,5 @@
 <!-- ===== HEADER BANNER ===== -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=220&section=header&text=Oktaviano%20S.R&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Malang%2C%20Indonesia&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=220&section=header&text=Oktaviano%20S.R&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%7C%20Malang%2C%20Indonesia&descAlignY=58&descSize=18)
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
