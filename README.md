@@ -4,7 +4,7 @@
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%2B+React+%2F+Enthusiast;Building+clean+%26+scalable+web+apps;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Software+Developer+%F0%9F%9A%80;Laravel+%2B+React+%2F+Enthusiast;Building+clean+%26+scalable+web+apps;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,7 +27,6 @@ I enjoy working on both the frontend and backend — from crafting beautiful int
 | 💬 Ask me about | **Laravel, PHP, JavaScript** |
 | 📍 Location | **Malang, East Java, Indonesia** |
 | 🎯 Current focus | **Building a strong Frontend foundation with React/TypeScript & strong Backend Architect** |
-| ⚡ Fun fact | **Love singing and actually pretty good at it xD** |
 | 
 
 ---
@@ -55,7 +54,6 @@ I enjoy working on both the frontend and backend — from crafting beautiful int
 **Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 **Tools**
 
